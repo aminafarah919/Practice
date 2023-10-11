@@ -1,0 +1,40 @@
+.body {
+    background-color: palevioletred;
+    margin: 12 12 4 4;
+    justify-content: center;
+    align-items: center;
+    padding: 0%;
+    
+
+
+}
+
+
+
+.flex-container {
+    display: flex;
+    flex-direction: row;
+
+
+}
+.flex-container.dev {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    align-content: center;
+    height: 100%;
+   
+}
+
+.title {
+    font-size: larger;
+    font-weight: bold;
+    font-family: fantasy;
+    color: rgb(214, 82, 82);
+
+}
+.link {
+    tr
+}
+
